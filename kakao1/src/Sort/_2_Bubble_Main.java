@@ -1,9 +1,7 @@
-package listing;
-
-import java.util.Arrays;
+package Sort;
 
 //버블정렬
-public class Main2 {
+public class _2_Bubble_Main {
 
 	public static void main(String[] args) {
 		int[] sort = { 3, 2, 5, 4, 1 };

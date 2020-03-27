@@ -1,6 +1,6 @@
-package listing;
+package Sort;
 //º±≈√¡§
-public class Main {
+public class _1_Selection_Main {
 
 	public static void main(String[] args) {
 		int[] sort = { 3, 2, 5, 4, 1 };
