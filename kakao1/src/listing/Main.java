@@ -1,5 +1,5 @@
 package listing;
-//선택정렬
+//선택정
 public class Main {
 
 	public static void main(String[] args) {
