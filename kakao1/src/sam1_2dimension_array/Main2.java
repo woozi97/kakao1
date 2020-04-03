@@ -1,4 +1,4 @@
-package samsung1_2dimension_array;
+package sam1_2dimension_array;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
