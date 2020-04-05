@@ -33,7 +33,7 @@ public class Main {
 		boolean ret = true;
 		int left = 0, right = 0;// 왼쪽 괄호, 오른쪽 괄호 카운트용
 
-		Stack<Character> mystack = new Stack<Character>();
+		Stack_Test<Character> mystack = new Stack_Test<Character>();
 		
 		for(int i=0;i<str.length();i++) {
 			if(str.charAt(i)=='(') {//현재문자가 (이면
