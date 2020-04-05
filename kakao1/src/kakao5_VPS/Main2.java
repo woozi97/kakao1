@@ -41,7 +41,7 @@ public class Main2 {
 
 		int i;
 		boolean isVPS = true;
-		Stack<Character> stack = new Stack<Character>();
+		Stack_Test<Character> stack = new Stack_Test<Character>();
 
 		char temp;
 		int left = 0, right =0;
